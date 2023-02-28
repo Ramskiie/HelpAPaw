@@ -1,0 +1,205 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1073px;
+}
+
+.u-section-1 .u-line-1 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  height: 264px;
+  transform-origin: center top 0px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Yusei Magic";
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 16px auto 0 24px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 261px;
+  height: 261px;
+  margin: -26px 131px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Yusei Magic";
+  margin: -10px 44px 0 683px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Yusei Magic";
+  font-weight: 700;
+  background-image: none;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -309px auto 0 24px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 326px;
+  height: 481px;
+  margin: 190px auto 0 172px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Yusei Magic";
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -65px 711px 0 261px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 438px;
+  height: 438px;
+  margin: -401px 119px 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Yusei Magic";
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -65px 262px 60px 726px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: 587px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -33px;
+    margin-right: 233px;
+    margin-left: 527px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -1039px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 527px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -61px;
+    margin-right: 611px;
+    margin-left: 161px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 53px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 162px;
+    margin-left: 626px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 307px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 855px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 501px;
+    margin-left: 51px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 52px;
+    margin-left: 516px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: 583px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 23px;
+    margin-right: 175px;
+    margin-left: 127px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -1035px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 799px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 372px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 102px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 388px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1970px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 488px;
+    margin-right: 82px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 110px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -940px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: -68px;
+    margin-right: 74px;
+    margin-left: 98px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 340px;
+    margin-top: 60px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 152px;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
